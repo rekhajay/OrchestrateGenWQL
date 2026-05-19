@@ -1,0 +1,24 @@
+{
+  "id": "generateWqlWithTheAiGatewayZgrhm2n_nrnfrc",
+  "languages": [
+    {
+      "code": "en-US",
+      "description": "English"
+    }
+  ],
+  "siteAuth": {
+    "authTypes": [
+      {
+        "scheme": "SSO",
+        "id": "sso"
+      }
+    ]
+  },
+  "siteId": "generateWqlWithTheAiGatewayZgrhm2n_nrnfrc",
+  "auth": {
+    "type": "SSO"
+  },
+  "cdnEnabled": true,
+  "siteProperties": [ ],
+  "applicationId": "generateWqlWithTheAiGatewayZgrhm2n_nrnfrc"
+}
